@@ -4,8 +4,10 @@
 
 Create a file named `example.txt` including all file names you want to split. For example:
 
-  a.jpg
-  aa.jpg
+```
+a.jpg
+aa.jpg
+```
 
 Then create two folders named `left` and `right` and execute:
 
