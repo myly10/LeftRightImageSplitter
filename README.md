@@ -7,6 +7,14 @@ Create a file named `example.txt` including all file names you want to split. Fo
 ```
 a.jpg
 aa.jpg
+afa.jpg
+afda.jpg
+ffa.jpg
+afda.jpg
+ga.jpg
+naa.jpg
+sma.jpg
+haa.jpg
 ```
 
 Then create two folders named `left` and `right` and execute:
